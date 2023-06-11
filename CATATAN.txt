@@ -1,0 +1,5 @@
+Udah ku buatin contoh konfigurasi standart untuk bagian backend kaya route,query dan lain lain nanti bisa menyesuaikan
+
+JANGAN LUPA SENEN PRESENTASI YEYYYY
+
+copyright Angga Diki Saputra
